@@ -4,4 +4,8 @@
 
 layout: home
 ---
+
+![baseball](baseball.jpeg)
+
+
 This is my home page. I am just testing thing out
