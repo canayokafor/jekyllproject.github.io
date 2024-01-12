@@ -16,3 +16,6 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+
+Apart from these links above, there are other things you can do to make sure that your site comes up well.
